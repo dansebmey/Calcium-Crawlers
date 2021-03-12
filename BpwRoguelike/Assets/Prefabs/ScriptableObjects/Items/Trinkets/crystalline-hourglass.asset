@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 234f1e1fdaf2a4d43b6e1f612aa4e800, type: 3}
+  m_Name: crystalline-hourglass
+  m_EditorClassIdentifier: 
+  owner: {fileID: 0}
+  itemName: Hourglass
+  sprite: {fileID: 21300000, guid: 693b30dc9b58f364ba444f3f43d5dcba, type: 3}
+  description: A crystalline artifact that slows down time in times of peril. Then
+    breaks.
+  weight: 0.1
+  isQueued: 0
+  movRangeModifier: 0
+  atkRangeModifier: 0
+  slowmotionRatio: 0.1

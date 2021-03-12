@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71f38386-e7aa-4398-a822-321b14425a70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/InGameEntities/Items/Consumables/Consumable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/InGameEntities/Items/Trinkets/Trinket.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/InGameEntities/Items/Trinkets/CrystallineHourglass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/HUD/ItemInterfaces/ItemInterface.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/Managers/CombatManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/HUD/ItemInterfaces/ItemDescriptionPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/Dungeon/DungeonGeneration/Room.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/State_GameOver_Loss.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/Dungeon/DungeonGeneration/DungeonGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/InGameEntities/Items/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/351E49E2-A5BF-4FD6-BEAB-B458CE2255F3/b2/cbfbcdca/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/HUD/HudManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/InGameEntities/Items/Trinkets/Nocimonollerom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/Managers/Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/Dungeon/TileManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/567DF3E0-9192-41BA-98DB-88BEC4C6696F/3b/7bebcfc2/Int32.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/HUD/DetailedCombatantInfoInterface/CombatantHUD.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/HUD/CommandInterface/CommandInterface.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4E316F1-55A7-47A3-81A8-6714F68C3269/31/3190ec8a/DungeonGenerator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/HUD/CommandInterface/CommandQueueInterface.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/HUD/CommandInterface/CommandListView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Combat/Commands/Abilities/Effects/UtilityEffects/UtilityEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/394C8FAE-4BA1-4DD2-A259-BD441D5BEF25/58/2804f9b1/Queue`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/HUD/OverheadHUD/OverheadHUD.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/HUD/HUD.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Combat/Commands/Abilities/AbilityDetails.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/GmAwareObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Combat/Commands/Abilities/AbilityCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/PlayerStates/State_PlayerTurn_PickAbility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/Managers/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/StateMachine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE22A4E8-F83C-41D6-9684-AE7F557133D9/ed/5675de04/EnumerableHelpers.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/HUD/AnimationControllers/TimedActionController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/State.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/State_GameOver_Win.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE22A4E8-F83C-41D6-9684-AE7F557133D9/ee/87ce3f4f/Queue`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E81851A0-DC73-4A79-AFA9-F5B7273162BE/7c/f27c041b/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/PlayerStates/State_PlayerTurn_Inventory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0467F5C0-E463-4B2C-ACC5-F718CB71F056/68/25a0b368/Queue`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/PlayerStates/State_PlayerTurn_Move.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HUD/InputInfoInterface.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HUD/InputInfoText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Combat/GridObjects/Combatants/Player/Input/InputController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/PlayerStates/State_PlayerTurn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A278EBD4-4AB0-472B-B8E6-38263E06CD61/fa/5a512d42/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Combat/GridObjects/Combatants/Player/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/EnemyStates/State_EnemyTurn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/567DF3E0-9192-41BA-98DB-88BEC4C6696F/8e/4d809361/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Combat/GridObjects/TreasureChest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Combat/GridObjects/Combatants/NPC/NPCPerformCondition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/EnemyStates/State_EnemyTurn_Performance.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Combat/GridObjects/Combatants/NPC/NPCombatant.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/State_RoundStart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/EnemyStates/State_EnemyTurn_MoveToTarget.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Combat/GridObjects/Combatants/Combatant.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/PlayerStates/State_PlayerTurn_Performance.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E413753B-1394-4B25-AA56-4494BF05E8CD/32/316941b6/AbilityCommand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/Managers/EventManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/PlayerStates/State_PlayerTurn_PickTarget.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/567DF3E0-9192-41BA-98DB-88BEC4C6696F/6c/5a8587b9/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/e7/9670550e/Void.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/DungeonRooms/Catacombs_Start.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/GridObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/PlayerStates/State_PlayerTurn_Loot.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Combat/AbilityDetails.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Combat/GridObjects/TreasureChest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Combat/Loadout.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Combat/Combatants/Player/PCombatant.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/HUD/HudManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/State_GameOver_Loss.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/State_GameOver_Win.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/HUD/GameOverOverlay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/Items/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/Commands/Command.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/Commands/AbilityCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/HUD/Inventory/InventoryInterface.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/HUD/Inventory/ItemInterface.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/HUD/Elements/LayeredText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/HUD/Hitsplat.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Combat/Combatants/Combatant.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tilemap/DungeonGeneration/DungeonGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/Managers/Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Combat/Combatants/Player/Input/InputInfoText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Combat/CombatManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/Characters/CharacterProfile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/HUD/CommandInterface/CommandListView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/HUD/CommandInterface/CommandQueueInterface.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/HUD/Elements/InputIndicator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/Managers/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/Tilemap/DungeonGeneration/DungeonGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/Dungeon/IManageCombatants.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Combat/Commands/Abilities/AbilityDetails.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Combat/Commands/Abilities/AbilityCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/PlayerStates/State_PlayerTurn.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/Managers/EventManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HUD/InputInfoInterface.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/EnemyStates/State_EnemyTurn_Performance.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/InGameEntities/Items/Trinkets/EscapeRope.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/Dungeon/TileManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/InGameEntities/Items/Consumables/EscapeRope.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/InGameEntities/Items/Trinkets/GuardianAngel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/InGameEntities/Items/Consumables/Consumable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Combat/GridObjects/Combatants/Combatant.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Combat/GridObjects/Combatants/NPC/NPCombatant.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/GridObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/Managers/CombatManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/EnemyStates/State_EnemyTurn_MoveToTarget.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/PlayerStates/State_PlayerTurn_Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/PlayerStates/State_PlayerTurn_Loot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/PlayerStates/State_PlayerTurn_Move.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/PlayerStates/State_PlayerTurn_Performance.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/PlayerStates/State_PlayerTurn_PickAbility.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/StateMachine/States/PlayerStates/State_PlayerTurn_PickTarget.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Combat/GridObjects/Combatants/Player/Input/InputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Meta/InGameEntities/Items/Trinkets/Nocimonollerom.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1o100uldA5Ai8stS7D4WMd8YIRL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="RiderUnityFileTemplatesSettings" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71f38386-e7aa-4398-a822-321b14425a70" name="Default Changelist" comment="" />
+      <created>1612438570448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612438570448</updated>
+      <workItem from="1612438577318" duration="14641000" />
+      <workItem from="1612520467444" duration="24977000" />
+      <workItem from="1612561569116" duration="2100000" />
+      <workItem from="1613037096425" duration="18873000" />
+      <workItem from="1613160355822" duration="6904000" />
+      <workItem from="1613212680077" duration="46891000" />
+      <workItem from="1613319493543" duration="1177000" />
+      <workItem from="1613379931962" duration="2185000" />
+      <workItem from="1613420456811" duration="48000" />
+      <workItem from="1613469971921" duration="1977000" />
+      <workItem from="1613553184037" duration="22612000" />
+      <workItem from="1613639470743" duration="18915000" />
+      <workItem from="1613675672335" duration="4581000" />
+      <workItem from="1613914850165" duration="13069000" />
+      <workItem from="1614244779255" duration="14516000" />
+      <workItem from="1614429523670" duration="8045000" />
+      <workItem from="1614445665823" duration="9854000" />
+      <workItem from="1614677335145" duration="18666000" />
+      <workItem from="1614759964675" duration="26023000" />
+      <workItem from="1614845868698" duration="22934000" />
+      <workItem from="1614932618685" duration="62883000" />
+      <workItem from="1615193206374" duration="18436000" />
+      <workItem from="1615283009808" duration="2493000" />
+      <workItem from="1615313454787" duration="622000" />
+      <workItem from="1615371164494" duration="36666000" />
+      <workItem from="1615453434231" duration="23625000" />
+      <workItem from="1615545786686" duration="26545000" />
+      <workItem from="1615578269157" duration="3328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="2635" y="223" key="#xdebugger.evaluate" timestamp="1614987172667">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="223" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1613269491915" />
+    <state x="2635" y="223" key="#xdebugger.evaluate/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1614987172667" />
+    <state width="593" height="466" key="DebuggerActiveHint" timestamp="1615566731834">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="434" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1615195136645" />
+    <state width="593" height="466" key="DebuggerActiveHint/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615566731834" />
+    <state width="1877" height="350" key="GridCell.Tab.0.bottom" timestamp="1615574018982">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615197268013" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1614250965622" />
+    <state width="1877" height="350" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615574018982" />
+    <state width="1877" height="350" key="GridCell.Tab.0.center" timestamp="1615574018982">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615197268013" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1614250965622" />
+    <state width="1877" height="350" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615574018982" />
+    <state width="1877" height="350" key="GridCell.Tab.0.left" timestamp="1615574018982">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615197268012" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1614250965621" />
+    <state width="1877" height="350" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615574018982" />
+    <state width="1877" height="350" key="GridCell.Tab.0.right" timestamp="1615574018982">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615197268013" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1614250965622" />
+    <state width="1877" height="350" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615574018982" />
+    <state width="1877" height="350" key="GridCell.Tab.1.bottom" timestamp="1615574018982">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615197282847" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1614250976810" />
+    <state width="1877" height="350" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615574018982" />
+    <state width="1877" height="350" key="GridCell.Tab.1.center" timestamp="1615574018982">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615197282846" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1614250976810" />
+    <state width="1877" height="350" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615574018982" />
+    <state width="1877" height="350" key="GridCell.Tab.1.left" timestamp="1615574018982">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615197282846" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1614250976810" />
+    <state width="1877" height="350" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615574018982" />
+    <state width="1877" height="350" key="GridCell.Tab.1.right" timestamp="1615574018982">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615197282846" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1614250976810" />
+    <state width="1877" height="350" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615574018982" />
+    <state width="1877" height="350" key="GridCell.Tab.2.bottom" timestamp="1615574018982">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615197267909" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1614250965484" />
+    <state width="1877" height="350" key="GridCell.Tab.2.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615574018982" />
+    <state width="1877" height="350" key="GridCell.Tab.2.center" timestamp="1615574018982">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615197267909" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1614250965484" />
+    <state width="1877" height="350" key="GridCell.Tab.2.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615574018982" />
+    <state width="1877" height="350" key="GridCell.Tab.2.left" timestamp="1615574018982">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615197267909" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1614250965484" />
+    <state width="1877" height="350" key="GridCell.Tab.2.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615574018982" />
+    <state width="1877" height="350" key="GridCell.Tab.2.right" timestamp="1615574018982">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615197267909" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1614250965484" />
+    <state width="1877" height="350" key="GridCell.Tab.2.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615574018982" />
+    <state width="1877" height="350" key="GridCell.Tab.3.bottom" timestamp="1615574018983">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615197267910" />
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1614250965485" />
+    <state width="1877" height="350" key="GridCell.Tab.3.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615574018983" />
+    <state width="1877" height="350" key="GridCell.Tab.3.center" timestamp="1615574018982">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615197267909" />
+    <state width="1877" height="348" key="GridCell.Tab.3.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1614250965485" />
+    <state width="1877" height="350" key="GridCell.Tab.3.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615574018982" />
+    <state width="1877" height="350" key="GridCell.Tab.3.left" timestamp="1615574018982">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615197267909" />
+    <state width="1877" height="348" key="GridCell.Tab.3.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1614250965485" />
+    <state width="1877" height="350" key="GridCell.Tab.3.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615574018982" />
+    <state width="1877" height="350" key="GridCell.Tab.3.right" timestamp="1615574018983">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="350" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615197267910" />
+    <state width="1877" height="348" key="GridCell.Tab.3.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1614250965485" />
+    <state width="1877" height="350" key="GridCell.Tab.3.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615574018983" />
+    <state x="2714" y="235" key="RiderGenerateDialog" timestamp="1615572942575">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="235" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613380323712" />
+    <state x="794" y="235" key="RiderGenerateDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1613649441029" />
+    <state x="2714" y="235" key="RiderGenerateDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615572942575" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1612439491322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1612439491322" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1615553087324">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615553087324" />
+    <state x="638" y="252" width="644" height="536" key="find.popup" timestamp="1615580926731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="638" y="252" width="644" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1615580926731" />
+    <state x="638" y="252" width="644" height="536" key="find.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1614939085399" />
+    <state x="2558" y="252" width="644" height="536" key="find.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615573749985" />
+    <state x="2536" y="240" width="672" height="677" key="run.anything.popup" timestamp="1615471348439">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1613247835434" />
+    <state x="2536" y="240" width="672" height="677" key="run.anything.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615471348439" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1615392956722">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1612542740955" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1615392956722" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Tilemap/DungeonGeneration/DungeonGenerator.cs</url>
+          <line>227</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Tilemap/DungeonGeneration/DungeonGenerator.cs" initialLine="162" />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Tilemap/DungeonGeneration/DungeonGenerator.cs</url>
+          <line>257</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Tilemap/DungeonGeneration/DungeonGenerator.cs" initialLine="196" />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Meta/Abilities/Effects/UtilityEffects/AccessInventory.cs</url>
+          <line>7</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Meta/Abilities/Effects/UtilityEffects/AccessInventory.cs" initialLine="7" />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Meta/GridObject.cs</url>
+          <line>18</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Meta/GridObject.cs" initialLine="18">
+            <startOffsets>
+              <option value="390" />
+            </startOffsets>
+            <endOffsets>
+              <option value="506" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="UNITY_DEBUG_RUN_CONFIGURATION">
+        <watch expression="compatibleAbilities[i]" />
+        <watch expression="item" />
+        <watch expression="this.m_InstanceID" />
+        <watch expression="__abilityQueue" />
+        <watch expression="EventDictionary" />
+        <watch expression="CurrentActor.Tile.point" />
+        <watch expression="targetTile.point" />
+        <watch expression=": horizontalItems - (horizontalItems * verticalItems - occupiedSlots.Count % horizontalItems)" />
+        <watch expression="horizontalItems - (horizontalItems * verticalItems - occupiedSlots.Count % horizontalItems)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

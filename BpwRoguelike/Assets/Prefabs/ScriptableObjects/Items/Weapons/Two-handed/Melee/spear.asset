@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af33dbebb82b4050b9161518823884e9, type: 3}
+  m_Name: spear
+  m_EditorClassIdentifier: 
+  owner: {fileID: 0}
+  itemName: Spear
+  sprite: {fileID: 21300000, guid: 58ae810b74cb34b4fa3995e496a0933d, type: 3}
+  description: A highly versatile polearm.
+  weight: 1.5
+  isQueued: 0
+  compatibleAbilityPools: 00000000030000000a00000009000000
+  attackRangeModifier: 0
+  accuracy: -2
+  damage: 1
+  lethality: 1
+  mobility: 1

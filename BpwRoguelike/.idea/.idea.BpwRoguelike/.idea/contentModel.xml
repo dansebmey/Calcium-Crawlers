@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\mc_me\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mc_me\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_BpwRoguelike.584914920.00" t="ExcludeRecursive" />
+    <e p="D:\HKU\Jaar 1\Blok 3\BPW\roguelike\BpwRoguelike" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Combat" t="Include">
+            <e p="Commands" t="Include">
+              <e p="Abilities" t="Include">
+                <e p="AbilityCommand.cs" t="Include" />
+                <e p="AbilityDetails.cs" t="Include" />
+                <e p="Effects" t="Include">
+                  <e p="BonusDamageEffects" t="Include">
+                    <e p="BonusDamageEffect.cs" t="Include" />
+                    <e p="DirectionBasedDamageEffect.cs" t="Include" />
+                    <e p="DistanceBasedDamageEffect.cs" t="Include" />
+                    <e p="MissingHPDamageEffect.cs" t="Include" />
+                    <e p="RemainingHPDamageEffect.cs" t="Include" />
+                  </e>
+                  <e p="DamageEffects" t="Include">
+                    <e p="BaseDamageEffect.cs" t="Include" />
+                    <e p="DamageEffect.cs" t="Include" />
+                  </e>
+                  <e p="PassiveItemEffects" t="Include">
+                    <e p="PassiveItemEffect.cs" t="Include" />
+                  </e>
+                  <e p="StatusEffects" t="Include">
+                    <e p="Bleed.cs" t="Include" />
+                    <e p="OffBalance.cs" t="Include" />
+                    <e p="StatusEffect.cs" t="Include" />
+                    <e p="Stun.cs" t="Include" />
+                  </e>
+                  <e p="UtilityEffects" t="Include">
+                    <e p="AccessInventory.cs" t="Include" />
+                    <e p="ApplyOffBalance.cs" t="Include" />
+                    <e p="ApplyStatusEffect.cs" t="Include" />
+                    <e p="ApplyStun.cs" t="Include" />
+                    <e p="DiscardItemEffect.cs" t="Include" />
+                    <e p="HealEffect.cs" t="Include" />
+                    <e p="Knockback.cs" t="Include" />
+                    <e p="ModifyStat.cs" t="Include" />
+                    <e p="UseItemEffect.cs" t="Include" />
+                    <e p="UtilityEffect.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Command.cs" t="Include" />
+              <e p="StateSwitchCommand.cs" t="Include" />
+            </e>
+            <e p="GridObjects" t="Include">
+              <e p="Combatants" t="Include">
+                <e p="Combatant.cs" t="Include" />
+                <e p="NPC" t="Include">
+                  <e p="NPCombatant.cs" t="Include" />
+                  <e p="NPCPerformCondition.cs" t="Include" />
+                </e>
+                <e p="Player" t="Include">
+                  <e p="Input" t="Include">
+                    <e p="InputAction.cs" t="Include" />
+                    <e p="InputController.cs" t="Include" />
+                  </e>
+                  <e p="PCombatant.cs" t="Include" />
+                  <e p="Player.cs" t="Include" />
+                </e>
+              </e>
+              <e p="IDamageable.cs" t="Include" />
+              <e p="TreasureChest.cs" t="Include" />
+            </e>
+          </e>
+          <e p="HUD" t="Include">
+            <e p="InputInfoInterface.cs" t="Include" />
+            <e p="InputInfoText.cs" t="Include" />
+          </e>
+          <e p="Meta" t="Include">
+            <e p="Dungeon" t="Include">
+              <e p="DungeonGeneration" t="Include">
+                <e p="DungeonGenerator.cs" t="Include" />
+                <e p="Room.cs" t="Include" />
+              </e>
+              <e p="GridPos.cs" t="Include" />
+              <e p="Pathfinding" t="Include">
+                <e p="Pathfinder.cs" t="Include" />
+              </e>
+              <e p="TileManager.cs" t="Include" />
+              <e p="Tiles" t="Include">
+                <e p="GroundTile.cs" t="Include" />
+                <e p="Tile.cs" t="Include" />
+                <e p="WallTile.cs" t="Include" />
+              </e>
+            </e>
+            <e p="GmAwareObject.cs" t="Include" />
+            <e p="GridObject.cs" t="Include" />
+            <e p="HUD" t="Include">
+              <e p="AnimationControllers" t="Include">
+                <e p="RoundTransitionController.cs" t="Include" />
+                <e p="TimedActionController.cs" t="Include" />
+              </e>
+              <e p="CameraController.cs" t="Include" />
+              <e p="CommandInterface" t="Include">
+                <e p="CommandInterface.cs" t="Include" />
+                <e p="CommandListView.cs" t="Include" />
+                <e p="CommandQueueInterface.cs" t="Include" />
+                <e p="CommandSlot.cs" t="Include" />
+              </e>
+              <e p="DetailedCombatantInfoInterface" t="Include">
+                <e p="CombatantHUD.cs" t="Include" />
+              </e>
+              <e p="GenericHudElements" t="Include">
+                <e p="LayeredText.cs" t="Include" />
+                <e p="PlayerDamageOverlay.cs" t="Include" />
+              </e>
+              <e p="HUD.cs" t="Include" />
+              <e p="HudManager.cs" t="Include" />
+              <e p="ItemInterfaces" t="Include">
+                <e p="InventoryInterface.cs" t="Include" />
+                <e p="ItemDescriptionInterface" t="Include">
+                  <e p="ItemParamField.cs" t="Include" />
+                  <e p="ItemParamPanel.cs" t="Include" />
+                </e>
+                <e p="ItemDescriptionPanel.cs" t="Include" />
+                <e p="ItemInterface.cs" t="Include" />
+                <e p="ItemSlot.cs" t="Include" />
+                <e p="LootInterface.cs" t="Include" />
+              </e>
+              <e p="OverheadHUD" t="Include">
+                <e p="BlockSplat.cs" t="Include" />
+                <e p="Hitsplat.cs" t="Include" />
+                <e p="InputIndicator.cs" t="Include" />
+                <e p="OverheadHUD.cs" t="Include" />
+                <e p="ResourcePanel.cs" t="Include" />
+              </e>
+              <e p="ScreenHUD" t="Include">
+                <e p="GameOverOverlay.cs" t="Include" />
+              </e>
+            </e>
+            <e p="InGameEntities" t="Include">
+              <e p="Characters" t="Include">
+                <e p="CharacterProfile.cs" t="Include" />
+                <e p="Inventory.cs" t="Include" />
+                <e p="Loadout.cs" t="Include" />
+              </e>
+              <e p="Items" t="Include">
+                <e p="Consumables" t="Include">
+                  <e p="Consumable.cs" t="Include" />
+                </e>
+                <e p="Equippables" t="Include">
+                  <e p="Armour" t="Include">
+                    <e p="Armour.cs" t="Include" />
+                  </e>
+                  <e p="ArmourItem.cs" t="Include" />
+                  <e p="Shields" t="Include">
+                    <e p="Shield.cs" t="Include" />
+                  </e>
+                  <e p="Weapons" t="Include">
+                    <e p="Weapon.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Item.cs" t="Include" />
+                <e p="Trinkets" t="Include">
+                  <e p="CrystallineHourglass.cs" t="Include" />
+                  <e p="Nocimonollerom.cs" t="Include" />
+                  <e p="Trinket.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Managers" t="Include">
+              <e p="CombatManager.cs" t="Include" />
+              <e p="EventManager.cs" t="Include" />
+              <e p="GameManager.cs" t="Include" />
+              <e p="Manager.cs" t="Include" />
+            </e>
+            <e p="StateMachine" t="Include">
+              <e p="State.cs" t="Include" />
+              <e p="StateMachine.cs" t="Include" />
+              <e p="States" t="Include">
+                <e p="EnemyStates" t="Include">
+                  <e p="State_EnemyTurn.cs" t="Include" />
+                  <e p="State_EnemyTurn_MoveToTarget.cs" t="Include" />
+                  <e p="State_EnemyTurn_Performance.cs" t="Include" />
+                </e>
+                <e p="PlayerStates" t="Include">
+                  <e p="State_PlayerTurn.cs" t="Include" />
+                  <e p="State_PlayerTurn_Inventory.cs" t="Include" />
+                  <e p="State_PlayerTurn_Loot.cs" t="Include" />
+                  <e p="State_PlayerTurn_Move.cs" t="Include" />
+                  <e p="State_PlayerTurn_Performance.cs" t="Include" />
+                  <e p="State_PlayerTurn_PickAbility.cs" t="Include" />
+                  <e p="State_PlayerTurn_PickTarget.cs" t="Include" />
+                </e>
+                <e p="State_GameOver_Loss.cs" t="Include" />
+                <e p="State_GameOver_Win.cs" t="Include" />
+                <e p="State_RoundStart.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="BpwRoguelike.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

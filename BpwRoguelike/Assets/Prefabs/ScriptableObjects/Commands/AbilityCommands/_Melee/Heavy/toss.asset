@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf83fcca8be44ac5a75202aeeec321aa, type: 3}
+  m_Name: toss
+  m_EditorClassIdentifier: 
+  commandName: Toss
+  sprite: {fileID: 21300000, guid: cea79c65296f5f14aab0bdf2bb40c3ea, type: 3}
+  description: Deals damage to a target at range.
+  tags: 02000000
+  cannotQueueReason: 
+  baseEnergyCost: 30
+  scope: 0
+  minRange: 2
+  maxRange: 4
+  diagonal: 0
+  mehMultiplier: 0.25
+  okayMultiplier: 0.5
+  goodMultiplier: 1
+  perfectMultiplier: 1.25
+  dealsDamage: 1
+  bonusDamageEffects: []
+  utilityEffects: []
+  compatibleWeaponTypes: 09000000

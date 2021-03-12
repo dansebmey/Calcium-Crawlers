@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c581e4e1e3b94208847840f661a9654e, type: 3}
+  m_Name: escape-rope
+  m_EditorClassIdentifier: 
+  owner: {fileID: 0}
+  itemName: Escape Rope
+  sprite: {fileID: 21300000, guid: db026c9be26eef147b23c4e534a8cd6e, type: 3}
+  description: Warps you to a random unoccupied tile on the current floor.
+  weight: 0.5
+  isQueued: 0
+  movRangeModifier: 0
+  atkRangeModifier: 0

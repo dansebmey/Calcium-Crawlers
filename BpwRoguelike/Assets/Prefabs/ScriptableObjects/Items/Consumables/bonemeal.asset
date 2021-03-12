@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0c5dbf986028ff49b26c5eabfba8665, type: 3}
+  m_Name: bonemeal
+  m_EditorClassIdentifier: 
+  owner: {fileID: 0}
+  itemName: Bonemeal
+  sprite: {fileID: 21300000, guid: f18164121b40aa340950e83463e2ab84, type: 3}
+  description: Hmmmm... Restores 30% of your missing HP + 20% of your max.
+  weight: 0.1
+  isQueued: 0
+  containedAbilities:
+  - {fileID: 11400000, guid: 5bf5356e0884e234f80a22d770ffb817, type: 2}

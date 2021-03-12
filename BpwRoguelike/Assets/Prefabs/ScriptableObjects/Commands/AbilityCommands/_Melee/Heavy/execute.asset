@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf83fcca8be44ac5a75202aeeec321aa, type: 3}
+  m_Name: execute
+  m_EditorClassIdentifier: 
+  commandName: Execute
+  sprite: {fileID: 21300000, guid: e55510d2012df4349a3b4ff61aeb1aff, type: 3}
+  description: An overhead strike that deals up to 50% of the target's missing HP
+    as bonus damage.
+  tags: 02000000
+  cannotQueueReason: Not enough energy
+  baseEnergyCost: 30
+  scope: 0
+  minRange: 1
+  maxRange: 1
+  diagonal: 0
+  mehMultiplier: 0.5
+  okayMultiplier: 0.75
+  goodMultiplier: 1
+  perfectMultiplier: 1.15
+  dealsDamage: 1
+  bonusDamageEffects:
+  - {fileID: 11400000, guid: b0118007b62759e42a1aa981f347e357, type: 2}
+  utilityEffects: []
+  compatibleWeaponTypes: 04000000

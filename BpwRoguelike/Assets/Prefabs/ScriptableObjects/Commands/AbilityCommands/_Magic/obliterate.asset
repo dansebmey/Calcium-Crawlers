@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf83fcca8be44ac5a75202aeeec321aa, type: 3}
+  m_Name: obliterate
+  m_EditorClassIdentifier: 
+  commandName: Obliterate
+  sprite: {fileID: 21300000, guid: 05430b5876f325d42b385b48a3366cdf, type: 3}
+  description: An ancient spell that deals heavy damage to everything in a 5x5 radius
+    around you.
+  tags: 03000000
+  cannotQueueReason: Not enough energy
+  baseEnergyCost: 100
+  scope: 2
+  minRange: 1
+  maxRange: 5
+  diagonal: 1
+  mehMultiplier: 1
+  okayMultiplier: 1.25
+  goodMultiplier: 2
+  perfectMultiplier: 2.5
+  dealsDamage: 1
+  bonusDamageEffects: []
+  utilityEffects: []
+  compatibleWeaponTypes: 10000000

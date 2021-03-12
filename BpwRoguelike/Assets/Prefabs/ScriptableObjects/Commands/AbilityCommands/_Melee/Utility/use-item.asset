@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf83fcca8be44ac5a75202aeeec321aa, type: 3}
+  m_Name: use-item
+  m_EditorClassIdentifier: 
+  commandName: Use Item
+  sprite: {fileID: 21300000, guid: 07b74edf5650dfc4aa9b105c4ce6c5b2, type: 3}
+  description: 
+  tags: 
+  cannotQueueReason: 
+  baseEnergyCost: 0
+  scope: 5
+  minRange: 1
+  maxRange: 1
+  diagonal: 0
+  mehMultiplier: 1
+  okayMultiplier: 1
+  goodMultiplier: 1
+  perfectMultiplier: 1
+  dealsDamage: 0
+  bonusDamageEffects: []
+  utilityEffects:
+  - {fileID: 11400000, guid: c0bfffb9903af7243bb27ed84af9f5a0, type: 2}
+  compatibleWeaponTypes: 

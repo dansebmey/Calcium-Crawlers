@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf83fcca8be44ac5a75202aeeec321aa, type: 3}
+  m_Name: warp
+  m_EditorClassIdentifier: 
+  commandName: 
+  sprite: {fileID: 0}
+  description: Teleports you to a nearby location within 3 tiles.
+  tags: 
+  cannotQueueReason: 
+  baseEnergyCost: 50
+  scope: 6
+  minRange: 1
+  maxRange: 3
+  diagonal: 0
+  mehMultiplier: 0
+  okayMultiplier: 0
+  goodMultiplier: 0
+  perfectMultiplier: 0
+  dealsDamage: 0
+  bonusDamageEffects: []
+  utilityEffects: []
+  compatibleWeaponTypes: 

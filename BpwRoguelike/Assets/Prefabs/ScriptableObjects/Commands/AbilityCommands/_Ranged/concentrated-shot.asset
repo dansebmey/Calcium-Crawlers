@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf83fcca8be44ac5a75202aeeec321aa, type: 3}
+  m_Name: concentrated-shot
+  m_EditorClassIdentifier: 
+  commandName: 
+  sprite: {fileID: 21300000, guid: 00f478f963a17f4409dcb8a13806d8f1, type: 3}
+  description: A shot targeted at the target's weak spot. Deals double damage on perfect
+    performance.
+  tags: 02000000
+  cannotQueueReason: 
+  baseEnergyCost: 50
+  scope: 0
+  minRange: 2
+  maxRange: 4
+  diagonal: 0
+  mehMultiplier: 0
+  okayMultiplier: 0.5
+  goodMultiplier: 1.5
+  perfectMultiplier: 2.3
+  dealsDamage: 1
+  bonusDamageEffects: []
+  utilityEffects: []
+  compatibleWeaponTypes: 060000000700000008000000

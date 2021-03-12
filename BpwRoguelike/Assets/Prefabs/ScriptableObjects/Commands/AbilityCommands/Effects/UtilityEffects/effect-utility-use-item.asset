@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d7b1e76e91f4dea9528f3ba9cc8d622, type: 3}
+  m_Name: effect-utility-use-item
+  m_EditorClassIdentifier: 
+  mehSuccessRatio: 1
+  okaySuccessRatio: 1
+  goodSuccessRatio: 1
+  perfectSuccessRatio: 1
+  isBlockable: 0
+  okayBlockMultiplier: 1
+  goodBlockMultiplier: 1
+  perfectBlockMultiplier: 1
+  uniqueToEquipmentCategories: 
+  item: {fileID: 11400000, guid: bb1d5d55898673d47bfed971e04505d5, type: 2}

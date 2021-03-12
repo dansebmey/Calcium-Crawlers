@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af33dbebb82b4050b9161518823884e9, type: 3}
+  m_Name: rapier
+  m_EditorClassIdentifier: 
+  owner: {fileID: 0}
+  itemName: Rapier
+  sprite: {fileID: 21300000, guid: 07b74edf5650dfc4aa9b105c4ce6c5b2, type: 3}
+  description: A defensive weapon.
+  weight: 1
+  isQueued: 0
+  compatibleAbilityPools: 000000000a000000
+  attackRangeModifier: 0
+  accuracy: 1
+  damage: -3
+  lethality: 2
+  mobility: 0
